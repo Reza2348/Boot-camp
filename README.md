@@ -1,2 +1,2 @@
-# Boot-camp
+# Boot-camp All exercises
 Boot camp
