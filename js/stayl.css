@@ -1,0 +1,24 @@
+.continer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.titel {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.box {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+@media (min-width: 769px) {
+    .box {
+        display: flex;
+        flex-direction: column;
+    }
+}
